@@ -12,10 +12,6 @@ The objective of this project was to simulate a honeypot in the cloud by configu
 
 ## Tools Used
 - Microsoft Azure
-- Virtual Machines
-- Microsoft Sentinel
-- Log Analytics Workspace
-- Windows Security Events Connector
 
 ## Steps
 
