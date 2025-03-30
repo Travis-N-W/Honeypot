@@ -1,5 +1,8 @@
 # Honeypot (Azure)
 
+## 📸 Project Screenshots
+Click [here](https://github.com/Travis-N-W/Honeypot/tree/main/screenshots) to view all screenshots.
+
 ## Brief Objective
 The objective of this project was to simulate a honeypot in the cloud by configuring an Azure virtual machine and integrating it with Microsoft Sentinel for security monitoring. The goal was to simulate a brute force attack via RDP and detect successful sign-ins using a custom alert rule. By setting up a Log Analytics workspace and using the Windows Security Events connector, any attack attempts were captured, allowing for scheduled monitoring and alerting within Microsoft Sentinel.
 
